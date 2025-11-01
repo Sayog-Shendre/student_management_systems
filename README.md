@@ -114,14 +114,6 @@ Make sure your `.csv` or `.xlsx` file has the following columns:
 
 ---
 
-## 🧑‍💻 Author
-
-**Ahmad Ali Rafique**  
-AI & Machine Learning Specialist | Deep Learning | NLP Expert  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-ali-rafique/)  
-🎥 [YouTube: AboutAI](https://www.youtube.com/@AhmadAliRafique)
-
----
 
 ## 📜 License
 
